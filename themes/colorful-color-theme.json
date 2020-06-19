@@ -27,6 +27,7 @@
     {
       "name": "Variable and parameter name",
       "scope": [
+        "meta.embedded",
         "meta.function-call",
         "support.variable.property",
         "meta.definition.variable.name",
