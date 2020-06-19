@@ -2,8 +2,6 @@
 
 A Visual Studio Code theme for the who in love with dark plus default them but a bit color and some italic font customization. ✨
 
-About this theme, and some of the considerations made while creating it (as well as _how_ to create it should you want to make your own): [https://css-tricks.com/creating-a-vs-code-theme/](https://css-tricks.com/creating-a-vs-code-theme/)
-
 ## Colorful Dark
 
 ![First Screen](ColorfullDark.jpg)
