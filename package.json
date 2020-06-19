@@ -1,0 +1,34 @@
+{
+  "name": "colorful-darkplus",
+  "displayName": "Colorful DarkPlus",
+  "description": "A custom colorized clone theme from VSCode default dark with italic font(Operator Mono).",
+  "version": "0.0.1",
+  "publisher": "b3hr4d",
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "VScode Theme",
+    "Default dark",
+    "Night Theme",
+    "defaultvscode dark",
+    "colorful dark",
+    "darker vscode",
+    "dark+ Theme",
+    "dark+ color"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "vsdefault_colorful",
+        "uiTheme": "vs-dark",
+        "path": "./themes/colorful-color-theme.json"
+      }
+    ]
+  }
+}
