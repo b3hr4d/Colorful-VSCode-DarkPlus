@@ -202,7 +202,7 @@
       }
     },
     {
-      "scope": ["entity.name.label"],
+      "scope": ["entity.name.label", "meta.jsx.children"],
       "settings": {
         "foreground": "#C8C8C8"
       }

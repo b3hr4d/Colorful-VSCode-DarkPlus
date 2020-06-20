@@ -36,6 +36,7 @@
     {
       "scope": "constant.language",
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#4797d8"
       }
     },
