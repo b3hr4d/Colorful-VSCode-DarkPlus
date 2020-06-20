@@ -42,6 +42,7 @@
       "name": "Types declaration and references",
       "scope": [
         "meta.return-type",
+        "support.class.console",
         "support.class",
         "support.type",
         "entity.name.type",
@@ -116,6 +117,9 @@
     {
       "name": "Constants and enums",
       "scope": [
+        "variable.other.object",
+        "variable.other.property",
+        "variable.object.property",
         "variable.parameter",
         "variable.other.constant",
         "variable.other.enummember"
@@ -192,13 +196,13 @@
       }
     },
     {
-      "scope": "meta.brace.square",
+      "scope": ["meta.brace.square", "variable.other.readwrite.alias"],
       "settings": {
-        "foreground": "#3dcaae"
+        "foreground": "#40caaf"
       }
     },
     {
-      "scope": "entity.name.label",
+      "scope": ["entity.name.label"],
       "settings": {
         "foreground": "#C8C8C8"
       }

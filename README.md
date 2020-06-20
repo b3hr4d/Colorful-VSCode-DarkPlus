@@ -4,7 +4,10 @@ A Visual Studio Code theme for the who in love with dark plus default them but a
 
 ## Colorful Dark
 
+**HTML**
 ![First Screen](ColorfullDark.jpg)
+**React**
+![First Screen](react-colorful.jpg)
 
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
 2.  Launch Visual Studio Code
