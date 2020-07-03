@@ -34,7 +34,7 @@
       }
     },
     {
-      "scope": "constant.language",
+      "scope": ["constant.language"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#4797d8"
@@ -54,13 +54,13 @@
       }
     },
     {
-      "scope": "constant.regexp",
+      "scope": ["constant.regexp"],
       "settings": {
         "foreground": "#595b97"
       }
     },
     {
-      "scope": "entity.name.tag",
+      "scope": ["entity.name.tag", "meta.embedded.line"],
       "settings": {
         "foreground": "#4797d8"
       }

@@ -117,7 +117,6 @@
     {
       "name": "Constants and enums",
       "scope": [
-        "variable.other.object",
         "variable.other.property",
         "variable.object.property",
         "variable.parameter",
@@ -130,7 +129,11 @@
     },
     {
       "name": "Object keys, TS grammar specific",
-      "scope": ["meta.object-literal.key"],
+      "scope": [
+        "meta.object-literal.key",
+        "punctuation.definition.template-expression.begin",
+        "punctuation.definition.template-expression.end"
+      ],
       "settings": {
         "foreground": "#8ad6ff"
       }
@@ -215,14 +218,14 @@
     },
     {
       "scope": [
-        "meta.embedded.line",
         "punctuation.definition.parameters",
         "punctuation.accessor",
         "meta.brace.round",
         "punctuation.definition.block",
         "punctuation.section",
         "punctuation.terminator.statement",
-        "punctuation.separator.comma"
+        "punctuation.separator.comma",
+        "punctuation.separator.parameter"
       ],
       "settings": {
         "fontStyle": "",
