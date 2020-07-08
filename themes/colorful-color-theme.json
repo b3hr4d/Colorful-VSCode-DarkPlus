@@ -18,7 +18,12 @@
       }
     },
     {
-      "scope": ["constant.character", "storage.type", "keyword.operator.new"],
+      "scope": [
+        "constant.character",
+        "storage.type",
+        "keyword.operator.new",
+        "storage.modifier"
+      ],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#1071c0"
