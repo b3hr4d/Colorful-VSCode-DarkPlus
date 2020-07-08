@@ -18,10 +18,10 @@
       }
     },
     {
-      "scope": ["constant.character", "storage.type"],
+      "scope": ["constant.character", "storage.type", "keyword.operator.new"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#4395d8"
+        "foreground": "#1071c0"
       }
     },
     {
@@ -110,14 +110,13 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#c471bd"
+        "foreground": "#c265ba"
       }
     },
 
     {
       "name": "Constants and enums",
       "scope": [
-        "variable.other.object",
         "variable.other.property",
         "variable.object.property",
         "variable.parameter",
@@ -125,12 +124,13 @@
         "variable.other.enummember"
       ],
       "settings": {
-        "foreground": "#34b8ff"
+        "foreground": "#2ba0df"
       }
     },
     {
       "name": "Object keys, TS grammar specific",
       "scope": [
+        "variable.other.object",
         "meta.object-literal.key",
         "punctuation.definition.template-expression.begin",
         "punctuation.definition.template-expression.end"
