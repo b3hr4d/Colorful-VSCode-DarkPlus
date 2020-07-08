@@ -219,8 +219,14 @@
     },
     {
       "scope": [
+        "punctuation.definition.begin.bracket.curly",
+        "punctuation.definition.end.bracket.curly",
         "punctuation.definition.parameters",
+        "punctuation.terminator.expression",
+        "punctuation.definition.arguments.begin.bracket.round",
+        "punctuation.definition.arguments.end.bracket.round",
         "punctuation.accessor",
+        "punctuation.separator.delimiter",
         "meta.brace.round",
         "punctuation.definition.block",
         "punctuation.section",
