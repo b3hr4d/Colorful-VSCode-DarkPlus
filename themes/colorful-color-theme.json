@@ -223,6 +223,12 @@
       }
     },
     {
+      "scope": ["support.type.property-name.json"],
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
       "scope": [
         "punctuation.definition.begin.bracket.curly",
         "punctuation.definition.end.bracket.curly",
