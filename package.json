@@ -2,7 +2,7 @@
   "name": "colorful-darkplus",
   "displayName": "Colorful DarkPlus",
   "description": "A custom colorized clone theme from VSCode default dark with italic font(Operator Mono).",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "b3hr4d",
   "engines": {
     "vscode": "^1.46.0"
