@@ -230,6 +230,8 @@
     },
     {
       "scope": [
+        "punctuation.terminator.rule",
+        "punctuation.separator.list.comma",
         "punctuation.definition.begin.bracket.curly",
         "punctuation.definition.end.bracket.curly",
         "punctuation.definition.parameters",

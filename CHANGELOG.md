@@ -2,6 +2,11 @@
 
 All notable changes to the "colorful" theme will be documented in this file.
 
+## [1.0.3]
+
+- some css fixes
+- update demo image
+
 ## [1.0.2]
 
 - json italic font fixed
