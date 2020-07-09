@@ -3,6 +3,7 @@
 A Visual Studio Code theme for the who in love with dark plus default theme but a bit color changes and some italic font customization. ✨
 
 Used font on demo: Operator Mono.
+
 Used icon on demo: Material Icon Theme.
 
 ## Colorful Dark
