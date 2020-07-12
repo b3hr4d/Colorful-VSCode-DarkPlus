@@ -2,6 +2,11 @@
 
 All notable changes to the "colorful" theme will be documented in this file.
 
+## [1.0.4]
+
+- function color changed to darkblue
+- change some bracket color
+
 ## [1.0.3]
 
 - some css fixes
