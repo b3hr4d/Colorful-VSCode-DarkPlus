@@ -34,7 +34,7 @@
       }
     },
     {
-      "scope": ["constant.language"],
+      "scope": ["constant.language", "storage.type.function"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#4797d8"

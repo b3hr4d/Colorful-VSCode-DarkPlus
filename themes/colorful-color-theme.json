@@ -110,8 +110,7 @@
         "keyword.other.using",
         "keyword.other.operator",
         "entity.name.operator",
-        "keyword.control.conditional",
-        "storage.type.function"
+        "keyword.control.conditional"
       ],
       "settings": {
         "fontStyle": "italic",
@@ -223,6 +222,21 @@
       }
     },
     {
+      "scope": ["punctuation.definition.parameters"],
+      "settings": {
+        "foreground": "#e0e0af"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.definition.end.bracket.round",
+        "punctuation.definition.begin.bracket.round"
+      ],
+      "settings": {
+        "foreground": "#e6b1ff"
+      }
+    },
+    {
       "scope": ["support.type.property-name.json"],
       "settings": {
         "fontStyle": ""
@@ -234,7 +248,6 @@
         "punctuation.separator.list.comma",
         "punctuation.definition.begin.bracket.curly",
         "punctuation.definition.end.bracket.curly",
-        "punctuation.definition.parameters",
         "punctuation.terminator.expression",
         "punctuation.definition.arguments.begin.bracket.round",
         "punctuation.definition.arguments.end.bracket.round",
