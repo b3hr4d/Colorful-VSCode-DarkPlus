@@ -14,7 +14,7 @@ Used icon on demo: Material Icon Theme.
 
 ## React
 
-![Secound Screen](react-colorful.jpg)
+![Second Screen](react-colorful.jpg)
 
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
 2.  Launch Visual Studio Code
