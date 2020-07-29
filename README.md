@@ -6,8 +6,6 @@ Used font on demo: Operator Mono.
 
 Used icon on demo: Material Icon Theme.
 
-## Colorful Dark
-
 ## HTML
 
 ![First Screen](html-colorful.jpg)
