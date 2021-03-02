@@ -1,6 +1,8 @@
 # Colorful DarkPlus
 
-A Visual Studio Code theme for the who in love with dark plus default theme but a bit color changes and some italic font customization. ✨
+A Visual Studio Code theme for the who in love with dark plus default theme with color changes and some italic font customization. ✨
+
+Full support typescript and solidity.
 
 Used font on demo: Operator Mono.
 
@@ -13,6 +15,14 @@ Used icon on demo: Material Icon Theme.
 ## React
 
 ![Second Screen](react-colorful.jpg)
+
+## React Typescript
+
+![Third Screen](typescript.png)
+
+## Solidity
+
+![Forth Screen](solidity.png)
 
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
 2.  Launch Visual Studio Code

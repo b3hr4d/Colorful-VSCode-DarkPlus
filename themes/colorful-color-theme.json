@@ -11,6 +11,7 @@
         "support.function",
         "support.constant.handlebars",
         "source.powershell variable.other.member",
+        "storage.type.mapping.solidity",
         "entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
       ],
       "settings": {
@@ -37,6 +38,7 @@
         "support.variable.property",
         "meta.definition.variable.name",
         "meta.var-single-variable.expr",
+        "source.solidity",
         "meta.block"
       ],
       "settings": {
@@ -79,7 +81,8 @@
         "storage.type.generic.groovy",
         "storage.type.object.array.groovy",
         "storage.type.primitive.array.groovy",
-        "storage.type.primitive.groovy"
+        "storage.type.primitive.groovy",
+        "support.type.primitive.solidity"
       ],
       "settings": {
         "fontStyle": "italic",
@@ -94,7 +97,8 @@
         "support.constant.math",
         "support.constant.dom",
         "support.constant.json",
-        "entity.other.inherited-class"
+        "entity.other.inherited-class",
+        "constant.other.pragma.solidity"
       ],
       "settings": {
         "fontStyle": "italic",
@@ -178,6 +182,7 @@
         "constant.character.character-class.regexp",
         "constant.other.character-class.set.regexp",
         "constant.other.character-class.regexp",
+        "constant.other.pragma.solidity",
         "constant.character.set.regexp"
       ],
       "settings": {
@@ -258,7 +263,8 @@
         "punctuation.section",
         "punctuation.terminator.statement",
         "punctuation.separator.comma",
-        "punctuation.separator.parameter"
+        "punctuation.separator.parameter",
+        "punctuation.separator.solidity"
       ],
       "settings": {
         "fontStyle": "",

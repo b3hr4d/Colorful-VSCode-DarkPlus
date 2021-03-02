@@ -2,6 +2,11 @@
 
 All notable changes to the "colorful" theme will be documented in this file.
 
+## [1.0.5]
+
+- solidity language added (using [solidity](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) plugin)
+- change some minor color
+
 ## [1.0.4]
 
 - function color changed to darkblue
