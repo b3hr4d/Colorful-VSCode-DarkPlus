@@ -2,7 +2,7 @@
 
 A Visual Studio Code theme for the who in love with dark plus default theme with color changes and some italic font customization. ✨
 
-Full support typescript and solidity.
+Full support typescript and [solidity](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity).
 
 Used font on demo: Operator Mono.
 
