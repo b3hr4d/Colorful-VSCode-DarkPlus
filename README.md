@@ -2,7 +2,10 @@
 
 A Visual Studio Code theme for the who in love with dark plus default theme with color changes and some italic font customization. ✨
 
-Full support typescript and [solidity](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity).
+Full support all vscode languages plus:
+
+- [Solidity](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
+- [Motoko](https://marketplace.visualstudio.com/items?itemName=dfinity-foundation.vscode-motoko)
 
 Used font on demo: Operator Mono.
 
@@ -23,6 +26,10 @@ Used icon on demo: Material Icon Theme.
 ## Solidity
 
 ![Forth Screen](solidity.png)
+
+## Motoko
+
+![Fifth Screen](motoko.png)
 
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
 2.  Launch Visual Studio Code

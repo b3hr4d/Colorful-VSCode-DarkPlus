@@ -7,6 +7,7 @@
     {
       "name": "Function declarations",
       "scope": [
+        "entity.type.function.swift",
         "entity.name.function",
         "support.function",
         "support.constant.handlebars",
@@ -23,7 +24,8 @@
         "constant.character",
         "storage.type",
         "keyword.operator.new",
-        "storage.modifier"
+        "storage.modifier",
+        "keyword.other.access-level-modifier.swift"
       ],
       "settings": {
         "fontStyle": "italic",
@@ -114,7 +116,9 @@
         "keyword.other.using",
         "keyword.other.operator",
         "entity.name.operator",
-        "keyword.control.conditional"
+        "keyword.control.conditional",
+        "keyword.statement.swift",
+        "keyword.other.import.swift"
       ],
       "settings": {
         "fontStyle": "italic",
@@ -125,6 +129,7 @@
     {
       "name": "Constants and enums",
       "scope": [
+        "meta.parameter-clause.swift",
         "variable.other.property",
         "variable.object.property",
         "variable.parameter",
@@ -138,6 +143,7 @@
     {
       "name": "Object keys, TS grammar specific",
       "scope": [
+        "source.mo",
         "variable.other.object",
         "meta.object-literal.key",
         "punctuation.definition.template-expression.begin",
