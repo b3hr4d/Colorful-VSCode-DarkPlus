@@ -13,7 +13,9 @@
         "support.constant.handlebars",
         "source.powershell variable.other.member",
         "storage.type.mapping.solidity",
-        "entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
+        "entity.name.operator.custom-literal", // See https://en.cppreference.com/w/cpp/language/user_literal
+        "punctuation.definition.function-arguments.begin.swift",
+        "punctuation.definition.function-arguments.end.swift"
       ],
       "settings": {
         "foreground": "#dddd85"
@@ -25,7 +27,8 @@
         "storage.type",
         "keyword.operator.new",
         "storage.modifier",
-        "keyword.other.access-level-modifier.swift"
+        "keyword.other.access-level-modifier.swift",
+        "keyword.other.declaration-modifier.swift"
       ],
       "settings": {
         "fontStyle": "italic",
@@ -118,7 +121,8 @@
         "entity.name.operator",
         "keyword.control.conditional",
         "keyword.statement.swift",
-        "keyword.other.import.swift"
+        "keyword.other.import.swift",
+        "kewyord.control.catch.swift"
       ],
       "settings": {
         "fontStyle": "italic",
