@@ -27,6 +27,10 @@ Used icon on demo: Material Icon Theme.
 
 ![Forth Screen](solidity.png)
 
+## Rust
+
+![Fifth Screen](rust.png)
+
 ## Motoko
 
 ![Fifth Screen](motoko.png)

@@ -2,6 +2,11 @@
 
 All notable changes to the "colorful" theme will be documented in this file.
 
+## [1.0.8]
+
+- Rust language added
+- Some fixes.
+
 ## [1.0.7]
 
 - Some fixes.

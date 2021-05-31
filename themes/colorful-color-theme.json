@@ -28,7 +28,9 @@
         "keyword.operator.new",
         "storage.modifier",
         "keyword.other.access-level-modifier.swift",
-        "keyword.other.declaration-modifier.swift"
+        "keyword.other.declaration-modifier.swift",
+        "keyword.other.rust",
+        "keyword.other.fn.rust"
       ],
       "settings": {
         "fontStyle": "italic",
@@ -44,6 +46,7 @@
         "meta.definition.variable.name",
         "meta.var-single-variable.expr",
         "source.solidity",
+        "variable.other.rust",
         "meta.block"
       ],
       "settings": {
@@ -103,7 +106,7 @@
         "support.constant.dom",
         "support.constant.json",
         "entity.other.inherited-class",
-        "constant.other.pragma.solidity"
+        "constant.other.pragma.solidity",
       ],
       "settings": {
         "fontStyle": "italic",
@@ -138,7 +141,9 @@
         "variable.object.property",
         "variable.parameter",
         "variable.other.constant",
-        "variable.other.enummember"
+        "variable.other.enummember",
+        "meta.use.rust",
+        "constant.other.caps.rust"
       ],
       "settings": {
         "foreground": "#2ba0df"
@@ -151,7 +156,9 @@
         "variable.other.object",
         "meta.object-literal.key",
         "punctuation.definition.template-expression.begin",
-        "punctuation.definition.template-expression.end"
+        "punctuation.definition.template-expression.end",
+        "meta.attribute.rust",
+        "source.rust"
       ],
       "settings": {
         "foreground": "#8ad6ff"
@@ -193,7 +200,7 @@
         "constant.other.character-class.set.regexp",
         "constant.other.character-class.regexp",
         "constant.other.pragma.solidity",
-        "constant.character.set.regexp"
+        "constant.character.set.regexp",
       ],
       "settings": {
         "foreground": "#d15959"
@@ -219,7 +226,7 @@
       }
     },
     {
-      "scope": ["meta.brace.square", "variable.other.readwrite.alias"],
+      "scope": ["meta.brace.square", "variable.other.readwrite.alias","punctuation.brackets.square.rust"],
       "settings": {
         "foreground": "#40caaf"
       }
@@ -237,7 +244,7 @@
       }
     },
     {
-      "scope": ["punctuation.definition.parameters"],
+      "scope": ["punctuation.definition.parameters","punctuation.brackets.round.rust"],
       "settings": {
         "foreground": "#e0e0af"
       }
@@ -274,7 +281,12 @@
         "punctuation.terminator.statement",
         "punctuation.separator.comma",
         "punctuation.separator.parameter",
-        "punctuation.separator.solidity"
+        "punctuation.separator.solidity",
+        "punctuation.semi.rust",
+        "punctuation.brackets.curly.rust",
+        "punctuation.brackets.attribute.rust",
+        "punctuation.definition.attribute.rust",
+        "punctuation.brackets.angle.rust"
       ],
       "settings": {
         "fontStyle": "",
