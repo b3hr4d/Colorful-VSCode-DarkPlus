@@ -30,7 +30,7 @@
         "keyword.other.access-level-modifier.swift",
         "keyword.other.declaration-modifier.swift",
         "keyword.other.rust",
-        "keyword.other.fn.rust",
+        "keyword.other.fn.rust"
       ],
       "settings": {
         "fontStyle": "italic",
@@ -90,7 +90,7 @@
         "storage.type.object.array.groovy",
         "storage.type.primitive.array.groovy",
         "storage.type.primitive.groovy",
-        "support.type.primitive.solidity",
+        "support.type.primitive.solidity"
       ],
       "settings": {
         "fontStyle": "italic",
@@ -106,7 +106,7 @@
         "support.constant.dom",
         "support.constant.json",
         "entity.other.inherited-class",
-        "constant.other.pragma.solidity",
+        "constant.other.pragma.solidity"
       ],
       "settings": {
         "fontStyle": "italic",
@@ -125,10 +125,21 @@
         "keyword.control.conditional",
         "keyword.statement.swift",
         "keyword.other.import.swift",
-        "kewyord.control.catch.swift",
+        "kewyord.control.catch.swift"
       ],
       "settings": {
         "fontStyle": "italic",
+        "foreground": "#c265ba"
+      }
+    },
+    {
+      "name": "Functions",
+      "scope": [
+        "storage.type.function.arrow",
+        "punctuation.definition.string.template"
+      ],
+      "settings": {
+        "fontStyle": "",
         "foreground": "#c265ba"
       }
     },
@@ -212,13 +223,13 @@
       }
     },
     {
-      "scope": "keyword.operator.quantifier.regexp",
+      "scope": ["keyword.operator.quantifier.regexp"],
       "settings": {
         "foreground": "#dab669"
       }
     },
     {
-      "scope": "meta.attribute.rust",
+      "scope": ["meta.attribute.rust"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#dfdfdf"
