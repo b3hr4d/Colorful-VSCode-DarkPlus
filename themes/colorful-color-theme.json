@@ -30,7 +30,8 @@
         "keyword.other.access-level-modifier.swift",
         "keyword.other.declaration-modifier.swift",
         "keyword.other.rust",
-        "keyword.other.fn.rust"
+        "keyword.other.fn.rust",
+        "entity.name.function.macro.rust"
       ],
       "settings": {
         "fontStyle": "italic",
@@ -252,13 +253,6 @@
       }
     },
     {
-      "scope": ["entity.name.function.macro.rust"],
-      "settings": {
-        "foreground": "#f1e74d",
-        "fontStyle": "italic"
-      }
-    },
-    {
       "scope": [
         "meta.brace.square",
         "variable.other.readwrite.alias",
@@ -336,5 +330,9 @@
         "foreground": "#d1b2b7"
       }
     }
-  ]
+  ],
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "selfKeyword": "#ff7373"
+  }
 }
