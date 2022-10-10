@@ -4,6 +4,7 @@ A Visual Studio Code theme for the who in love with dark plus default theme with
 
 Full support all vscode languages plus:
 
+- [Rust Analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) + transparent InlayHints
 - [Solidity](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
 - [Motoko](https://marketplace.visualstudio.com/items?itemName=dfinity-foundation.vscode-motoko)
 
@@ -13,27 +14,27 @@ Used icon on demo: Material Icon Theme.
 
 ## HTML
 
-![First Screen](html-colorful.jpg)
+![HTML Screen](html-colorful.jpg)
 
 ## React
 
-![Second Screen](react-colorful.jpg)
+![React Screen](react-colorful.jpg)
 
 ## React Typescript
 
-![Third Screen](typescript.png)
-
-## Solidity
-
-![Forth Screen](solidity.png)
+![React-ts Screen](typescript.png)
 
 ## Rust
 
-![Fifth Screen](rust.png)
+![Rust Screen](rust.png)
+
+## Solidity
+
+![Solidity Screen](solidity.png)
 
 ## Motoko
 
-![Fifth Screen](motoko.png)
+![Motoko Screen](motoko.png)
 
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
 2.  Launch Visual Studio Code
