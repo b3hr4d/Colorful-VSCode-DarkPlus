@@ -31,11 +31,22 @@
         "keyword.other.declaration-modifier.swift",
         "keyword.other.rust",
         "keyword.other.fn.rust",
-        "entity.name.function.macro.rust"
+        "entity.name.function.macro.rust",
+        "keyword.other.motoko",
+        "keyword.other.declaration-modifier.motoko",
+        "keyword.other.access-level-modifier.motoko",
+        "storage.type.motoko"
       ],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#1071c0"
+      }
+    },
+    {
+      "scope": ["keyword.constant.boolean.motoko"],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#378fd6"
       }
     },
     {
@@ -126,7 +137,10 @@
         "keyword.control.conditional",
         "keyword.statement.swift",
         "keyword.other.import.swift",
-        "kewyord.control.catch.swift"
+        "kewyord.control.catch.swift",
+        "keyword.async-await.motoko",
+        "keyword.statement.motoko",
+        "kewyord.control.catch.motoko"
       ],
       "settings": {
         "fontStyle": "italic",

@@ -2,6 +2,23 @@
 
 All notable changes to the "colorful" theme will be documented in this file.
 
+## [1.2.1]
+
+- fix some Motoko color
+- clean repo
+
+## [1.2.0]
+
+- add support for [Rust Analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) + transparent InlayHints
+
+## [1.1.0]
+
+- fix some color
+
+## [1.0.9]
+
+- Some fixes.
+
 ## [1.0.8]
 
 - Rust language added

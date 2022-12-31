@@ -8,33 +8,25 @@ Full support all vscode languages plus:
 - [Solidity](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
 - [Motoko](https://marketplace.visualstudio.com/items?itemName=dfinity-foundation.vscode-motoko)
 
-Used font on demo: Operator Mono.
-
-Used icon on demo: Material Icon Theme.
-
 ## HTML
 
-![HTML Screen](html-colorful.jpg)
+![HTML Screen](./Html/img.png)
 
 ## React
 
-![React Screen](react-colorful.jpg)
-
-## React Typescript
-
-![React-ts Screen](typescript.png)
+![React Screen](./React/img.png)
 
 ## Rust
 
-![Rust Screen](rust.png)
+![Rust Screen](./Rust/img.png)
 
 ## Solidity
 
-![Solidity Screen](solidity.png)
+![Solidity Screen](./Solidity/img.png)
 
 ## Motoko
 
-![Motoko Screen](motoko.png)
+![Motoko Screen](./Motoko/img.png)
 
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
 2.  Launch Visual Studio Code
