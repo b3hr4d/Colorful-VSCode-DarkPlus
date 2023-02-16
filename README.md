@@ -52,7 +52,7 @@ If you encounter any issues with this theme, or if you would like to contribute 
 
 ## Credits
 
-This theme was developed by [Your Name]. The color scheme and design elements were inspired by the Dark+ default theme for Visual Studio Code.
+This theme was developed by B3HR4D. The color scheme and design elements were inspired by the Dark+ default theme for Visual Studio Code.
 
 ## License
 
