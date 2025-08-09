@@ -42,6 +42,11 @@
         "label": "Colorful Dark+",
         "uiTheme": "vs-dark",
         "path": "./themes/colorful-color-theme.json"
+      },
+      {
+        "label": "Colorful Dark Modern+",
+        "uiTheme": "vs-dark",
+        "path": "./themes/modern-plus-color-theme.json"
       }
     ]
   }
