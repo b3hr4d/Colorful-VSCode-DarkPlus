@@ -41,12 +41,12 @@
       {
         "label": "Colorful Dark+",
         "uiTheme": "vs-dark",
-        "path": "./themes/colorful-color-theme.json"
+        "path": "./themes/colorful-dark-plus.json"
       },
       {
-        "label": "Colorful Dark Modern+",
+        "label": "Colorful Dark+ Modern",
         "uiTheme": "vs-dark",
-        "path": "./themes/modern-plus-color-theme.json"
+        "path": "./themes/modern-colorful-dark-plus.json"
       }
     ]
   }

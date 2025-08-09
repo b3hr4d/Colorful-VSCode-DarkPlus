@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "colorful",
+  "name": "Dark+ Token Base",
   "type": "dark",
   "include": "./dark_vs.json",
   "tokenColors": [
@@ -13,7 +13,7 @@
         "support.constant.handlebars",
         "source.powershell variable.other.member",
         "storage.type.mapping.solidity",
-        "entity.name.operator.custom-literal", // See https://en.cppreference.com/w/cpp/language/user_literal
+        "entity.name.operator.custom-literal",
         "punctuation.definition.function-arguments.begin.swift",
         "punctuation.definition.function-arguments.end.swift"
       ],
