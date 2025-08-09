@@ -2,6 +2,14 @@
 
 All notable changes to the "colorful" theme will be documented in this file.
 
+## [2.0.0]
+
+- New: Default Dark Modern (Colorful) theme variant with a refreshed UI palette while keeping the same token colors.
+- Refactor: Introduced a shared token base (`themes/dark_plus.json`) so all variants reuse identical `tokenColors`.
+- Enhancement: Added parameter highlighting for C# (e.g., `sender`, `e`) via TextMate scope `entity.name.variable.parameter.cs` and semantic token `parameter`.
+- Docs: README revamped with side-by-side Default and Modern screenshots for HTML, React, Rust, Solidity, Motoko, and C#.
+- Packaging: `package.json` updated to contribute the new Modern variant.
+
 ## [1.2.1]
 
 - fix some Motoko color
