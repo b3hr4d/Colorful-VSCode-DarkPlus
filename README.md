@@ -105,7 +105,7 @@ If you encounter any issues or have suggestions, please open an issue or PR on t
 
 ## Credits
 
-Created by B3HR4D. Based on Visual Studio Code’s Dark+.
+Created with ❤️ by B3HR4D. Based on Visual Studio Code’s Dark+.
 
 ## License
 
