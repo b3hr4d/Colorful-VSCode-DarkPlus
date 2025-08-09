@@ -3,7 +3,7 @@
 Colorful DarkPlus is a Visual Studio Code theme extension based on the Dark+ default theme with brighter, more colorful accents. It now ships in two variants so you can choose the main UI color style while keeping the same tokenColors:
 
 - Colorful Dark+ (classic vibrant accents)
-- Default Dark Modern (Colorful) — modern UI palette while preserving the same code token colors
+- Colorful Dark+ Modern — modern UI palette while preserving the same code token colors
 
 Maximum compatibility with:
 
