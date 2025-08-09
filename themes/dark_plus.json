@@ -43,9 +43,12 @@
       }
     },
     {
-      "scope": ["keyword.constant.boolean.motoko"],
+      "scope": [
+        "keyword.constant.boolean.motoko",
+        "entity.name.variable.parameter",
+        "variable.other.object"
+      ],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#378fd6"
       }
     },
@@ -59,6 +62,7 @@
         "meta.var-single-variable.expr",
         "source.solidity",
         "variable.other.rust",
+        "variable.other.readwrite",
         "meta.block"
       ],
       "settings": {
@@ -118,7 +122,8 @@
         "support.constant.dom",
         "support.constant.json",
         "entity.other.inherited-class",
-        "constant.other.pragma.solidity"
+        "constant.other.pragma.solidity",
+        "keyword.type.object"
       ],
       "settings": {
         "fontStyle": "italic",
@@ -140,7 +145,8 @@
         "kewyord.control.catch.swift",
         "keyword.async-await.motoko",
         "keyword.statement.motoko",
-        "kewyord.control.catch.motoko"
+        "kewyord.control.catch.motoko",
+        "keyword.operator.expression.pattern"
       ],
       "settings": {
         "fontStyle": "italic",
@@ -179,7 +185,6 @@
       "name": "Object keys, TS grammar specific",
       "scope": [
         "source.mo",
-        "variable.other.object",
         "meta.object-literal.key",
         "punctuation.definition.template-expression.begin",
         "punctuation.definition.template-expression.end",

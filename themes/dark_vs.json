@@ -269,6 +269,8 @@
         "variable.css",
         "variable.scss",
         "variable.other.less",
+        "entity.name.variable.local",
+        "variable.other.object.property",
         "source.coffee.embedded"
       ],
       "settings": {
