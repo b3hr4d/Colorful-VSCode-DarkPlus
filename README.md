@@ -93,7 +93,7 @@ Example source: `examples/C#/example.cs`
 2. Search for `Colorful DarkPlus` and click **Install**.
 3. Select a theme: go to **Code > Preferences > Color Theme** and pick one of:
    - Colorful Dark+
-   - Default Dark Modern (Colorful)
+   - Colorful Dark+ Modern
 
 ## Notes for Tweakers
 
