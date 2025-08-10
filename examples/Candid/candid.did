@@ -1,0 +1,24 @@
+type Theme = record {
+    name: text;
+    version: text;
+    isDarkMode: bool;
+};
+
+type Color = record {
+    primary: text;
+    secondary: text;
+    background: text;
+};
+
+type Status = variant {
+    Active;
+    Inactive;
+    Deprecated;
+};
+
+service : {
+    getTheme: () -> (Theme) query;
+    updateTheme: (Theme) -> ();
+    getColorScheme: () -> (Color) query;
+    setStatus: (Status) -> ();
+}

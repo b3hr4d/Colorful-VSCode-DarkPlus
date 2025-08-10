@@ -75,6 +75,18 @@ Modern:
 
 Example source: `examples/Motoko/Main.mo`
 
+### Candid (DID)
+
+Default:
+
+![Candid Default](./examples/Candid/default.png)
+
+Modern:
+
+![Candid Modern](./examples/Candid/modern.png)
+
+Example source: `examples/Candid/candid.did`
+
 ### C#
 
 Default:

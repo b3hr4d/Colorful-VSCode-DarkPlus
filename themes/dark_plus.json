@@ -35,6 +35,7 @@
         "keyword.other.motoko",
         "keyword.other.declaration-modifier.motoko",
         "keyword.other.access-level-modifier.motoko",
+        "keyword.statement.candid",
         "storage.type.motoko"
       ],
       "settings": {
@@ -145,8 +146,9 @@
         "kewyord.control.catch.swift",
         "keyword.async-await.motoko",
         "keyword.statement.motoko",
-        "kewyord.control.catch.motoko",
-        "keyword.operator.expression.pattern"
+        "keyword.control.catch.motoko",
+        "keyword.operator.expression.pattern",
+        "keyword.other.declaration-modifier"
       ],
       "settings": {
         "fontStyle": "italic",

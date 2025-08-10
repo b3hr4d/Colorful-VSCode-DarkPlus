@@ -2,6 +2,11 @@
 
 All notable changes to the "colorful" theme will be documented in this file.
 
+## [2.0.2]
+
+- New: Added Candid (DID) example under `examples/Candid/` with default and modern screenshots.
+- Tweak: Adjusted Candid/DID token colors for better contrast and consistency with the palette.
+
 ## [2.0.1]
 
 - Fix: Updated the `files` field in `package.json` to reduce the package size by excluding unnecessary files.

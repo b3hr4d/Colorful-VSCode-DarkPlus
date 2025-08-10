@@ -352,7 +352,7 @@
     },
     {
       "name": "this.self",
-      "scope": "variable.language",
+      "scope": ["variable.language", "keyword.declaration.candid"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#ff7373"
