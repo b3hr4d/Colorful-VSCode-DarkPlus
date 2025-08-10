@@ -2,6 +2,10 @@
 
 All notable changes to the "colorful" theme will be documented in this file.
 
+## [2.0.1]
+
+- Fix: Updated the `files` field in `package.json` to reduce the package size by excluding unnecessary files.
+
 ## [2.0.0]
 
 - New: Default Dark Modern (Colorful) theme variant with a refreshed UI palette while keeping the same token colors.
