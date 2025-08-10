@@ -2,6 +2,10 @@
 
 All notable changes to the "colorful" theme will be documented in this file.
 
+## [2.0.3]
+
+- Tweak: Adjusted tab borders and backgrounds for better visibility and consistency.
+
 ## [2.0.2]
 
 - New: Added Candid (DID) example under `examples/Candid/` with default and modern screenshots.
