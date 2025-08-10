@@ -3,7 +3,7 @@
 Colorful DarkPlus is a Visual Studio Code theme extension based on the Dark+ default theme with brighter, more colorful accents. It now ships in two variants so you can choose the main UI color style while keeping the same tokenColors:
 
 - Colorful Dark+ (classic vibrant accents)
-- Default Dark Modern (Colorful) — modern UI palette while preserving the same code token colors
+- Colorful Dark+ Modern — modern UI palette while preserving the same code token colors
 
 Maximum compatibility with:
 
@@ -93,7 +93,7 @@ Example source: `examples/C#/example.cs`
 2. Search for `Colorful DarkPlus` and click **Install**.
 3. Select a theme: go to **Code > Preferences > Color Theme** and pick one of:
    - Colorful Dark+
-   - Default Dark Modern (Colorful)
+   - Colorful Dark+ Modern
 
 ## Notes for Tweakers
 
